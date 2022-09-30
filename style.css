@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+#square, #circle, #triangle{
+    display: inline-block;
+}
+#square {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+#circle {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+#triangle {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+} 
+.div{
+    margin: 10px 0px 0px 50px;
+}
+.button{
+    margin: 0px 180px;
+}
+.button-1{
+    margin: 0px 0px 0px 50px;
+}
+.button-2{
+    margin: 0px 0px 0px 200px;
+}
+.div-2{
+    margin: 200px 0px 0px 270px;
+}
